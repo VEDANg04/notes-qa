@@ -1,0 +1,128 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 3
+/Kids [ 4 0 R 7 0 R 10 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/F1 6 0 R
+>>
+>>
+/MediaBox [ 0.0 0.0 612 792 ]
+/Parent 2 0 R
+/Contents 5 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 249
+>>
+stream
+BT /F1 12 Tf 50 740 Td (Project: Northstar notes.) Tj 0 -24 Td (Meeting: Tuesday at 14:00 in Room 4.) Tj 0 -24 Td (Project owner: Mira Patel.) Tj 0 -24 Td (Review deadline: 18 March.) Tj 0 -24 Td (The team should bring the architecture draft.) Tj ET
+endstream
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+7 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/F1 9 0 R
+>>
+>>
+/MediaBox [ 0.0 0.0 612 792 ]
+/Parent 2 0 R
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 282
+>>
+stream
+BT /F1 12 Tf 50 740 Td (The service extracts PDF text with pypdf.) Tj 0 -24 Td (Text chunks contain 500 characters with 100-character overlap.) Tj 0 -24 Td (Embeddings use all-MiniLM-L6-v2.) Tj 0 -24 Td (FAISS stores vectors; metadata JSON stores file names and page numbers.) Tj ET
+endstream
+endobj
+9 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+10 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/F1 12 0 R
+>>
+>>
+/MediaBox [ 0.0 0.0 612 792 ]
+/Parent 2 0 R
+/Contents 11 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 342
+>>
+stream
+BT /F1 12 Tf 50 740 Td (POST /ingest accepts PDF uploads. POST /ask receives questions. GET /health reports status.) Tj 0 -24 Td (Ollama is the default LLM provider.) Tj 0 -24 Td (If documents do not contain an answer, reply: I don't know based on the provided documents.) Tj 0 -24 Td (Retrieval returns the top four chunks by default.) Tj ET
+endstream
+endobj
+12 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000126 00000 n 
+0000000175 00000 n 
+0000000307 00000 n 
+0000000607 00000 n 
+0000000677 00000 n 
+0000000809 00000 n 
+0000001142 00000 n 
+0000001212 00000 n 
+0000001347 00000 n 
+0000001741 00000 n 
+trailer
+<<
+/Size 13
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+1812
+%%EOF

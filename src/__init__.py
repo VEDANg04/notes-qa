@@ -1,0 +1,1 @@
+"""Notes QA application package."""

@@ -1,0 +1,17 @@
+[
+  {"question": "When is the project meeting?", "answer": "Tuesday at 14:00", "file_name": "notes.pdf", "page_number": 1},
+  {"question": "Where will the project meeting take place?", "answer": "Room 4", "file_name": "notes.pdf", "page_number": 1},
+  {"question": "Who owns the project?", "answer": "Mira Patel", "file_name": "notes.pdf", "page_number": 1},
+  {"question": "When is the review deadline?", "answer": "18 March", "file_name": "notes.pdf", "page_number": 1},
+  {"question": "What should the team bring to the meeting?", "answer": "Architecture draft", "file_name": "notes.pdf", "page_number": 1},
+  {"question": "Which library extracts text from PDF files?", "answer": "pypdf", "file_name": "notes.pdf", "page_number": 2},
+  {"question": "How many characters are in each text chunk?", "answer": "500 characters", "file_name": "notes.pdf", "page_number": 2},
+  {"question": "How much overlap is used between chunks?", "answer": "100-character overlap", "file_name": "notes.pdf", "page_number": 2},
+  {"question": "Which embedding model is used?", "answer": "all-MiniLM-L6-v2", "file_name": "notes.pdf", "page_number": 2},
+  {"question": "Where are the vectors stored?", "answer": "FAISS", "file_name": "notes.pdf", "page_number": 2},
+  {"question": "Which endpoint accepts PDF uploads?", "answer": "POST /ingest", "file_name": "notes.pdf", "page_number": 3},
+  {"question": "Which endpoint receives questions?", "answer": "POST /ask", "file_name": "notes.pdf", "page_number": 3},
+  {"question": "What is the default LLM provider?", "answer": "Ollama", "file_name": "notes.pdf", "page_number": 3},
+  {"question": "What fallback sentence does the document state?", "answer": "I don’t know based on the provided documents.", "file_name": "notes.pdf", "page_number": 3},
+  {"question": "How many chunks does retrieval return by default?", "answer": "Four", "file_name": "notes.pdf", "page_number": 3}
+]
